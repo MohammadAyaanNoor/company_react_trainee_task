@@ -1,13 +1,12 @@
 import React, { useState, useEffect } from "react";
 
-import MainRoutes from "./routes/MainRoutes";
+import MainRoutes from "../src/Routes/MainRoutes";
 
 const App =() => {
   
 
   return (
     <>
-    
     <MainRoutes/>
     </>
   );
